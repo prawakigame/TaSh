@@ -1,0 +1,6 @@
+framework module Pods_TaSh {
+  umbrella header "Pods-TaSh-umbrella.h"
+
+  export *
+  module * { export * }
+}

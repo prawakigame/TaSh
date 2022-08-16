@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>18699254555-53onuhitvnkbir9k2hm2ndc78ta6b8g6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.18699254555-53onuhitvnkbir9k2hm2ndc78ta6b8g6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8OwNLD16l96eb8T2xwy3bnIL_LhwNJ_M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>18699254555</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.com.app.shuka.tash</string>
+	<key>PROJECT_ID</key>
+	<string>tash-da8bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tash-da8bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:18699254555:ios:53a9368e57b22b0fd571be</string>
+</dict>
+</plist>
